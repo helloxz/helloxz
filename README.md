@@ -1,4 +1,5 @@
 ![xiaoz github stats](https://github-readme-stats.vercel.app/api?username=helloxz&hide=contribs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloxz)
 
 ## 基本信息
 
