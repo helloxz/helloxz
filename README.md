@@ -9,15 +9,14 @@
 * 从业经验：6年
 * 现居：四川 成都
 * 手机：173xxxx9905
-* 邮箱：eGl1cGluZ3pvdUBvdXRsb29rLmNvbQ==
 
 ## 关于我
 
-2015.07毕业后一直从事Linux运维工作，具备Linux运维能力和前后端开发能力。同时也是一名开源爱好者，独立开发过5个以上开源项目（[https://github.com/helloxz](https://github.com/helloxz)），喜欢分享和创造。
+曾就职西部数码，现为自由职业者。擅长Linux运维、PHP、Golang、前端开发，先后开发过`[Zdir](https://github.com/helloxz/zdir)`、[ImgURL](https://github.com/helloxz/imgurl)、[CCAA](https://github.com/helloxz/ccaa)、[OneNav](https://github.com/helloxz/onenav)等开源项目。
 
 ## 联系我
 
 * Blog:[https://www.xiaoz.me/](https://www.xiaoz.me/)
 * QQ:337003006
 * 邮箱：eGl1cGluZ3pvdUBvdXRsb29rLmNvbQ==
-* Telegram:[@xiaozblog](https://t.me/xiaozblog)
+* Telegram:[@xiaozme](https://t.me/xiaozme)
