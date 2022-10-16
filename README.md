@@ -11,7 +11,7 @@
 
 ## 关于我
 
-曾就职西部数码，现为自由职业者。擅长Linux运维、PHP、Golang、前端开发，先后开发过`[Zdir](https://github.com/helloxz/zdir)`、[ImgURL](https://github.com/helloxz/imgurl)、[CCAA](https://github.com/helloxz/ccaa)、[OneNav](https://github.com/helloxz/onenav)等开源项目。
+曾就职西部数码，现为自由职业者。擅长Linux运维、PHP、Golang、前端开发，先后开发过[Zdir](https://github.com/helloxz/zdir)、[ImgURL](https://github.com/helloxz/imgurl)、[CCAA](https://github.com/helloxz/ccaa)、[OneNav](https://github.com/helloxz/onenav)等开源项目。
 
 ## 联系我
 
