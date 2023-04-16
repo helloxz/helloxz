@@ -4,9 +4,10 @@
 
 ## 基本信息
 
-* 年龄：28岁
-* 学历：大专（计算机网络专业）
-* 从业经验：6年
+* 年龄：29岁
+* 学历：大专
+* 所学专业：计算机网络技术
+* 从业经验：7年
 * 现居：四川 成都
 
 ## 关于我
@@ -15,7 +16,7 @@
 
 ## 联系我
 
-* Blog:[https://www.xiaoz.me/](https://www.xiaoz.me/)
+* Blog:[https://blog.xiaoz.org/]([https://www.xiaoz.me/](https://blog.xiaoz.org/))
 * QQ:337003006
 * 邮箱：eGl1cGluZ3pvdUBvdXRsb29rLmNvbQ==
 * Telegram:[@xiaozme](https://t.me/xiaozme)
