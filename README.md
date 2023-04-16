@@ -16,7 +16,7 @@
 
 ## 联系我
 
-* Blog:[https://blog.xiaoz.org/]([https://www.xiaoz.me/](https://blog.xiaoz.org/))
+* Blog:[https://blog.xiaoz.org/](https://blog.xiaoz.org/)
 * QQ:337003006
 * 邮箱：eGl1cGluZ3pvdUBvdXRsb29rLmNvbQ==
 * Telegram:[@xiaozme](https://t.me/xiaozme)
