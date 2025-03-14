@@ -4,7 +4,7 @@
 
 ## 关于我
 
-xiaoz曾就职西部数码，现为自由职业者。擅长Linux运维、Docker、PHP、Golang、前端开发等技术，先后开发过[Zdir](https://www.zdir.pro/zh/)、[ImgURL](https://github.com/helloxz/imgurl)、[OneNav](https://github.com/helloxz/onenav)等开源项目。
+xiaoz曾就职西部数码，现为自由职业(3年)。WEB全栈开发者，擅长Linux运维、Docker、PHP、Golang、Python、前端等开发等技术，先后开发过[Zdir](https://www.zdir.pro/zh/)、[ImgURL](https://github.com/helloxz/imgurl)、[OneNav](https://github.com/helloxz/onenav)等开源项目。
 
 ## 联系我
 
