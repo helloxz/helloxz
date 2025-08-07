@@ -12,5 +12,3 @@ xiaoz曾就职西部数码，现为自由职业(3年)。WEB全栈开发者，擅
 * QQ:337003006
 * 邮箱：eGl1cGluZ3pvdUBvdXRsb29rLmNvbQ==
 * Telegram:[@xiaozme](https://t.me/xiaozme)
-
-雨云ID：780001
